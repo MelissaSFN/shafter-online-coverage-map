@@ -1,0 +1,3415 @@
+{
+  "city": "Shafter",
+  "state": "CA",
+  "zip": "93263",
+  "addresses": [
+    {
+      "address": "100 S Reiker St",
+      "normalized": "100 s reiker st"
+    },
+    {
+      "address": "100 S Reiker St Unit B",
+      "normalized": "100 s reiker st unit b"
+    },
+    {
+      "address": "101 Central Ave",
+      "normalized": "101 central ave"
+    },
+    {
+      "address": "101 Central Valley Hwy",
+      "normalized": "101 central valley hwy"
+    },
+    {
+      "address": "101 S Reiker St Unit C",
+      "normalized": "101 s reiker st unit c"
+    },
+    {
+      "address": "102 S Beech Ave",
+      "normalized": "102 s beech ave"
+    },
+    {
+      "address": "1047 Park Ln",
+      "normalized": "1047 park ln"
+    },
+    {
+      "address": "105 Montoya Ct",
+      "normalized": "105 montoya ct"
+    },
+    {
+      "address": "1050 E Los Angeles Ave",
+      "normalized": "1050 e los angeles ave"
+    },
+    {
+      "address": "1053 Park Ln",
+      "normalized": "1053 park ln"
+    },
+    {
+      "address": "1055 Park Ln",
+      "normalized": "1055 park ln"
+    },
+    {
+      "address": "1057 Park Ln",
+      "normalized": "1057 park ln"
+    },
+    {
+      "address": "1059 Park Ln",
+      "normalized": "1059 park ln"
+    },
+    {
+      "address": "1067 Park Ln",
+      "normalized": "1067 park ln"
+    },
+    {
+      "address": "1081 Park Ln",
+      "normalized": "1081 park ln"
+    },
+    {
+      "address": "1087 Park Ln",
+      "normalized": "1087 park ln"
+    },
+    {
+      "address": "1089 Park Ln",
+      "normalized": "1089 park ln"
+    },
+    {
+      "address": "1100 E Los Angeles Ave",
+      "normalized": "1100 e los angeles ave"
+    },
+    {
+      "address": "1100 Weyand Way",
+      "normalized": "1100 weyand way"
+    },
+    {
+      "address": "1101 E Lerdo Hwy",
+      "normalized": "1101 e lerdo hwy"
+    },
+    {
+      "address": "1103 Park Ln",
+      "normalized": "1103 park ln"
+    },
+    {
+      "address": "1105 Rose Ave",
+      "normalized": "1105 rose ave"
+    },
+    {
+      "address": "1106 Minter Ave",
+      "normalized": "1106 minter ave"
+    },
+    {
+      "address": "1110 E Lerdo Hwy",
+      "normalized": "1110 e lerdo hwy"
+    },
+    {
+      "address": "1112 Weyand Way",
+      "normalized": "1112 weyand way"
+    },
+    {
+      "address": "1115 Rose Ave",
+      "normalized": "1115 rose ave"
+    },
+    {
+      "address": "1117 Park Ln",
+      "normalized": "1117 park ln"
+    },
+    {
+      "address": "1118 Minter Ave",
+      "normalized": "1118 minter ave"
+    },
+    {
+      "address": "1118 Weyand Way",
+      "normalized": "1118 weyand way"
+    },
+    {
+      "address": "1124 Weyand Way",
+      "normalized": "1124 weyand way"
+    },
+    {
+      "address": "1125 Rose Ave",
+      "normalized": "1125 rose ave"
+    },
+    {
+      "address": "1130 Minter Ave",
+      "normalized": "1130 minter ave"
+    },
+    {
+      "address": "1130 Weyand Way",
+      "normalized": "1130 weyand way"
+    },
+    {
+      "address": "1135 Park Ln",
+      "normalized": "1135 park ln"
+    },
+    {
+      "address": "1135 Rose Ave",
+      "normalized": "1135 rose ave"
+    },
+    {
+      "address": "1136 Weyand Way",
+      "normalized": "1136 weyand way"
+    },
+    {
+      "address": "1142 Minter Ave",
+      "normalized": "1142 minter ave"
+    },
+    {
+      "address": "1142 Weyand Way",
+      "normalized": "1142 weyand way"
+    },
+    {
+      "address": "1145 Rose Ave",
+      "normalized": "1145 rose ave"
+    },
+    {
+      "address": "1148 Weyand Way",
+      "normalized": "1148 weyand way"
+    },
+    {
+      "address": "1150 E Lerdo Hwy",
+      "normalized": "1150 e lerdo hwy"
+    },
+    {
+      "address": "1150 E Los Angeles Ave",
+      "normalized": "1150 e los angeles ave"
+    },
+    {
+      "address": "1151 E Ash Ave",
+      "normalized": "1151 e ash ave"
+    },
+    {
+      "address": "1154 Minter Ave",
+      "normalized": "1154 minter ave"
+    },
+    {
+      "address": "1154 Weyand Way",
+      "normalized": "1154 weyand way"
+    },
+    {
+      "address": "1155 Rose Ave",
+      "normalized": "1155 rose ave"
+    },
+    {
+      "address": "116 N Ave",
+      "normalized": "116 n ave"
+    },
+    {
+      "address": "1160 E Lerdo Hwy",
+      "normalized": "1160 e lerdo hwy"
+    },
+    {
+      "address": "1160 Minter Ave",
+      "normalized": "1160 minter ave"
+    },
+    {
+      "address": "1160 Weyand Way",
+      "normalized": "1160 weyand way"
+    },
+    {
+      "address": "1165 Rose Ave",
+      "normalized": "1165 rose ave"
+    },
+    {
+      "address": "1170 Weyand Way",
+      "normalized": "1170 weyand way"
+    },
+    {
+      "address": "1175 Rose Ave",
+      "normalized": "1175 rose ave"
+    },
+    {
+      "address": "1176 Weyand Way",
+      "normalized": "1176 weyand way"
+    },
+    {
+      "address": "1178 Minter Ave",
+      "normalized": "1178 minter ave"
+    },
+    {
+      "address": "1180 Weyand Way",
+      "normalized": "1180 weyand way"
+    },
+    {
+      "address": "1185 Rose Ave",
+      "normalized": "1185 rose ave"
+    },
+    {
+      "address": "1190 Weyand Way",
+      "normalized": "1190 weyand way"
+    },
+    {
+      "address": "1195 Rose Ave",
+      "normalized": "1195 rose ave"
+    },
+    {
+      "address": "1199 Rose Ave",
+      "normalized": "1199 rose ave"
+    },
+    {
+      "address": "120 E Ash Ave",
+      "normalized": "120 e ash ave"
+    },
+    {
+      "address": "120 S Beech Ave",
+      "normalized": "120 s beech ave"
+    },
+    {
+      "address": "120 W Tulare Ave",
+      "normalized": "120 w tulare ave"
+    },
+    {
+      "address": "1200 E Los Angeles Ave",
+      "normalized": "1200 e los angeles ave"
+    },
+    {
+      "address": "1201 E Lerdo Hwy",
+      "normalized": "1201 e lerdo hwy"
+    },
+    {
+      "address": "121 Poso Ave",
+      "normalized": "121 poso ave"
+    },
+    {
+      "address": "1211 Park Ln",
+      "normalized": "1211 park ln"
+    },
+    {
+      "address": "1217 Park Ln",
+      "normalized": "1217 park ln"
+    },
+    {
+      "address": "122 N Ave",
+      "normalized": "122 n ave"
+    },
+    {
+      "address": "124 N Ave",
+      "normalized": "124 n ave"
+    },
+    {
+      "address": "1240 E Los Angeles Ave",
+      "normalized": "1240 e los angeles ave"
+    },
+    {
+      "address": "125 Central Ave",
+      "normalized": "125 central ave"
+    },
+    {
+      "address": "125 W Orange Ave",
+      "normalized": "125 w orange ave"
+    },
+    {
+      "address": "1263 E Los Angeles Ave",
+      "normalized": "1263 e los angeles ave"
+    },
+    {
+      "address": "127 E Orange Ave",
+      "normalized": "127 e orange ave"
+    },
+    {
+      "address": "1277 E Lerdo Hwy",
+      "normalized": "1277 e lerdo hwy"
+    },
+    {
+      "address": "128 S Beech Ave",
+      "normalized": "128 s beech ave"
+    },
+    {
+      "address": "128 W Tulare Ave",
+      "normalized": "128 w tulare ave"
+    },
+    {
+      "address": "1280 N Poplar Ave",
+      "normalized": "1280 n poplar ave"
+    },
+    {
+      "address": "129 W Orange Ave",
+      "normalized": "129 w orange ave"
+    },
+    {
+      "address": "1295 E Lerdo Hwy",
+      "normalized": "1295 e lerdo hwy"
+    },
+    {
+      "address": "1300 E Los Angeles Ave",
+      "normalized": "1300 e los angeles ave"
+    },
+    {
+      "address": "1305 E Lerdo Hwy",
+      "normalized": "1305 e lerdo hwy"
+    },
+    {
+      "address": "131 E Orange Ave",
+      "normalized": "131 e orange ave"
+    },
+    {
+      "address": "131 Poso Ave",
+      "normalized": "131 poso ave"
+    },
+    {
+      "address": "132 S Beech Ave",
+      "normalized": "132 s beech ave"
+    },
+    {
+      "address": "132 W Ash Ave",
+      "normalized": "132 w ash ave"
+    },
+    {
+      "address": "132 W Ash Ave Unit B",
+      "normalized": "132 w ash ave unit b"
+    },
+    {
+      "address": "1320 E Los Angeles Ave",
+      "normalized": "1320 e los angeles ave"
+    },
+    {
+      "address": "133 W Orange Ave",
+      "normalized": "133 w orange ave"
+    },
+    {
+      "address": "135 E Orange Ave",
+      "normalized": "135 e orange ave"
+    },
+    {
+      "address": "135 Montoya Ct",
+      "normalized": "135 montoya ct"
+    },
+    {
+      "address": "135 S Central Valley Hwy",
+      "normalized": "135 s central valley hwy"
+    },
+    {
+      "address": "1351 E Ash Ave",
+      "normalized": "1351 e ash ave"
+    },
+    {
+      "address": "136 California Ave",
+      "normalized": "136 california ave"
+    },
+    {
+      "address": "136 W Ash Ave",
+      "normalized": "136 w ash ave"
+    },
+    {
+      "address": "136 W Ash Ave Unit A",
+      "normalized": "136 w ash ave unit a"
+    },
+    {
+      "address": "136 W Ash Ave Unit B",
+      "normalized": "136 w ash ave unit b"
+    },
+    {
+      "address": "137 Poso Ave",
+      "normalized": "137 poso ave"
+    },
+    {
+      "address": "1390 E Lerdo Hwy",
+      "normalized": "1390 e lerdo hwy"
+    },
+    {
+      "address": "140 Montoya Ct",
+      "normalized": "140 montoya ct"
+    },
+    {
+      "address": "140 S Beech Ave",
+      "normalized": "140 s beech ave"
+    },
+    {
+      "address": "1401 W Lerdo Hwy",
+      "normalized": "1401 w lerdo hwy"
+    },
+    {
+      "address": "141 Poso Ave",
+      "normalized": "141 poso ave"
+    },
+    {
+      "address": "141 W Orange Ave",
+      "normalized": "141 w orange ave"
+    },
+    {
+      "address": "143 E Ash Ave",
+      "normalized": "143 e ash ave"
+    },
+    {
+      "address": "143 Richland Dr",
+      "normalized": "143 richland dr"
+    },
+    {
+      "address": "144 California Ave",
+      "normalized": "144 california ave"
+    },
+    {
+      "address": "144 W Ash Ave",
+      "normalized": "144 w ash ave"
+    },
+    {
+      "address": "145 E Ash Ave",
+      "normalized": "145 e ash ave"
+    },
+    {
+      "address": "145 E Orange Ave",
+      "normalized": "145 e orange ave"
+    },
+    {
+      "address": "1450 E Lerdo Hwy",
+      "normalized": "1450 e lerdo hwy"
+    },
+    {
+      "address": "147 Central Ave",
+      "normalized": "147 central ave"
+    },
+    {
+      "address": "147 E Ash Ave",
+      "normalized": "147 e ash ave"
+    },
+    {
+      "address": "149 E Orange Ave",
+      "normalized": "149 e orange ave"
+    },
+    {
+      "address": "149 Poso Ave",
+      "normalized": "149 poso ave"
+    },
+    {
+      "address": "149 W Orange Ave",
+      "normalized": "149 w orange ave"
+    },
+    {
+      "address": "1499 E Los Angeles Ave",
+      "normalized": "1499 e los angeles ave"
+    },
+    {
+      "address": "150 Central Valley Hwy",
+      "normalized": "150 central valley hwy"
+    },
+    {
+      "address": "150 Richland Dr",
+      "normalized": "150 richland dr"
+    },
+    {
+      "address": "1500 W Los Angeles Ave",
+      "normalized": "1500 w los angeles ave"
+    },
+    {
+      "address": "1501 W Lerdo Hwy",
+      "normalized": "1501 w lerdo hwy"
+    },
+    {
+      "address": "152 California Ave",
+      "normalized": "152 california ave"
+    },
+    {
+      "address": "153 Central Ave",
+      "normalized": "153 central ave"
+    },
+    {
+      "address": "154 W Tulare Ave",
+      "normalized": "154 w tulare ave"
+    },
+    {
+      "address": "155 E Ash Ave",
+      "normalized": "155 e ash ave"
+    },
+    {
+      "address": "157 Central Ave",
+      "normalized": "157 central ave"
+    },
+    {
+      "address": "157 Poso Ave",
+      "normalized": "157 poso ave"
+    },
+    {
+      "address": "157 S Central Valley Hwy",
+      "normalized": "157 s central valley hwy"
+    },
+    {
+      "address": "157 W Orange Ave",
+      "normalized": "157 w orange ave"
+    },
+    {
+      "address": "158 W Tulare Ave",
+      "normalized": "158 w tulare ave"
+    },
+    {
+      "address": "159 Central Ave",
+      "normalized": "159 central ave"
+    },
+    {
+      "address": "159 E Orange Ave",
+      "normalized": "159 e orange ave"
+    },
+    {
+      "address": "159 Richland Dr",
+      "normalized": "159 richland dr"
+    },
+    {
+      "address": "160 California Ave",
+      "normalized": "160 california ave"
+    },
+    {
+      "address": "160 W Tulare Ave",
+      "normalized": "160 w tulare ave"
+    },
+    {
+      "address": "161 Central Ave",
+      "normalized": "161 central ave"
+    },
+    {
+      "address": "163 Central Valley Hwy",
+      "normalized": "163 central valley hwy"
+    },
+    {
+      "address": "163 E Ash Ave",
+      "normalized": "163 e ash ave"
+    },
+    {
+      "address": "164 W Tulare Ave",
+      "normalized": "164 w tulare ave"
+    },
+    {
+      "address": "165 E Orange Ave",
+      "normalized": "165 e orange ave"
+    },
+    {
+      "address": "165 Poso Ave",
+      "normalized": "165 poso ave"
+    },
+    {
+      "address": "167 E Orange Ave",
+      "normalized": "167 e orange ave"
+    },
+    {
+      "address": "168 W Ash Ave",
+      "normalized": "168 w ash ave"
+    },
+    {
+      "address": "169 Central Ave",
+      "normalized": "169 central ave"
+    },
+    {
+      "address": "1690 E Riverside St",
+      "normalized": "1690 e riverside st"
+    },
+    {
+      "address": "170 E Ash Ave",
+      "normalized": "170 e ash ave"
+    },
+    {
+      "address": "170 W Ash Ave",
+      "normalized": "170 w ash ave"
+    },
+    {
+      "address": "171 Central Ave",
+      "normalized": "171 central ave"
+    },
+    {
+      "address": "171 E Orange Ave",
+      "normalized": "171 e orange ave"
+    },
+    {
+      "address": "171 W Orange Ave",
+      "normalized": "171 w orange ave"
+    },
+    {
+      "address": "172 W Ash Ave",
+      "normalized": "172 w ash ave"
+    },
+    {
+      "address": "173 Central Ave",
+      "normalized": "173 central ave"
+    },
+    {
+      "address": "173 E Orange Ave",
+      "normalized": "173 e orange ave"
+    },
+    {
+      "address": "173 Poso Ave",
+      "normalized": "173 poso ave"
+    },
+    {
+      "address": "174 W Ash Ave",
+      "normalized": "174 w ash ave"
+    },
+    {
+      "address": "1745 E Fresno Ave",
+      "normalized": "1745 e fresno ave"
+    },
+    {
+      "address": "17489 Mannel Ave",
+      "normalized": "17489 mannel ave"
+    },
+    {
+      "address": "175 Central Ave",
+      "normalized": "175 central ave"
+    },
+    {
+      "address": "175 Montoya Ct",
+      "normalized": "175 montoya ct"
+    },
+    {
+      "address": "175 Richland Dr",
+      "normalized": "175 richland dr"
+    },
+    {
+      "address": "176 W Ash Ave",
+      "normalized": "176 w ash ave"
+    },
+    {
+      "address": "177 W Orange Ave",
+      "normalized": "177 w orange ave"
+    },
+    {
+      "address": "178 W Ash Ave",
+      "normalized": "178 w ash ave"
+    },
+    {
+      "address": "179 Central Ave",
+      "normalized": "179 central ave"
+    },
+    {
+      "address": "180 E Ash Ave",
+      "normalized": "180 e ash ave"
+    },
+    {
+      "address": "180 Montoya Ct",
+      "normalized": "180 montoya ct"
+    },
+    {
+      "address": "181 W Orange Ave",
+      "normalized": "181 w orange ave"
+    },
+    {
+      "address": "183 S Central Valley Hwy",
+      "normalized": "183 s central valley hwy"
+    },
+    {
+      "address": "18424 Scaroni Ave",
+      "normalized": "18424 scaroni ave"
+    },
+    {
+      "address": "18452 Ave",
+      "normalized": "18452 ave"
+    },
+    {
+      "address": "18466 Ave",
+      "normalized": "18466 ave"
+    },
+    {
+      "address": "18466 Smiths Ln",
+      "normalized": "18466 smiths ln"
+    },
+    {
+      "address": "18468 Ave",
+      "normalized": "18468 ave"
+    },
+    {
+      "address": "18472 Alfalfa Ln",
+      "normalized": "18472 alfalfa ln"
+    },
+    {
+      "address": "18472 Ave",
+      "normalized": "18472 ave"
+    },
+    {
+      "address": "18473 Alfalfa Ln",
+      "normalized": "18473 alfalfa ln"
+    },
+    {
+      "address": "18473 Ave",
+      "normalized": "18473 ave"
+    },
+    {
+      "address": "18474 Alfalfa Ln",
+      "normalized": "18474 alfalfa ln"
+    },
+    {
+      "address": "18474 Ave",
+      "normalized": "18474 ave"
+    },
+    {
+      "address": "18474 Smiths Ln",
+      "normalized": "18474 smiths ln"
+    },
+    {
+      "address": "18475 Ave",
+      "normalized": "18475 ave"
+    },
+    {
+      "address": "18476 Smiths Ln",
+      "normalized": "18476 smiths ln"
+    },
+    {
+      "address": "18477 Ave",
+      "normalized": "18477 ave"
+    },
+    {
+      "address": "18477 Smiths Ln",
+      "normalized": "18477 smiths ln"
+    },
+    {
+      "address": "18478 Smiths Ln",
+      "normalized": "18478 smiths ln"
+    },
+    {
+      "address": "18479 Ave",
+      "normalized": "18479 ave"
+    },
+    {
+      "address": "18479 Smiths Ln",
+      "normalized": "18479 smiths ln"
+    },
+    {
+      "address": "18480 Ave",
+      "normalized": "18480 ave"
+    },
+    {
+      "address": "18480 Smiths Ln",
+      "normalized": "18480 smiths ln"
+    },
+    {
+      "address": "18481 Smiths Ln",
+      "normalized": "18481 smiths ln"
+    },
+    {
+      "address": "18482 Ave",
+      "normalized": "18482 ave"
+    },
+    {
+      "address": "18482 Gossiper Ln",
+      "normalized": "18482 gossiper ln"
+    },
+    {
+      "address": "18482 Smiths Ln",
+      "normalized": "18482 smiths ln"
+    },
+    {
+      "address": "18483 Alfalfa Ln",
+      "normalized": "18483 alfalfa ln"
+    },
+    {
+      "address": "18483 Ave",
+      "normalized": "18483 ave"
+    },
+    {
+      "address": "18483 Bayless St",
+      "normalized": "18483 bayless st"
+    },
+    {
+      "address": "18483 Gossiper Ln",
+      "normalized": "18483 gossiper ln"
+    },
+    {
+      "address": "18483 Smiths Ln",
+      "normalized": "18483 smiths ln"
+    },
+    {
+      "address": "18484 Alfalfa Ln",
+      "normalized": "18484 alfalfa ln"
+    },
+    {
+      "address": "18484 Ave",
+      "normalized": "18484 ave"
+    },
+    {
+      "address": "18484 Gossiper Ln",
+      "normalized": "18484 gossiper ln"
+    },
+    {
+      "address": "18484 Smiths Ln",
+      "normalized": "18484 smiths ln"
+    },
+    {
+      "address": "18485 Alfalfa Ln",
+      "normalized": "18485 alfalfa ln"
+    },
+    {
+      "address": "18485 S Ave",
+      "normalized": "18485 s ave"
+    },
+    {
+      "address": "18485 Smiths Ln",
+      "normalized": "18485 smiths ln"
+    },
+    {
+      "address": "18486 Alfalfa Ln",
+      "normalized": "18486 alfalfa ln"
+    },
+    {
+      "address": "18487 Alfalfa Ln",
+      "normalized": "18487 alfalfa ln"
+    },
+    {
+      "address": "18487 Ave",
+      "normalized": "18487 ave"
+    },
+    {
+      "address": "18487 Smiths Ln",
+      "normalized": "18487 smiths ln"
+    },
+    {
+      "address": "18488 Ave",
+      "normalized": "18488 ave"
+    },
+    {
+      "address": "18488 Smiths Ln",
+      "normalized": "18488 smiths ln"
+    },
+    {
+      "address": "18489 Ave",
+      "normalized": "18489 ave"
+    },
+    {
+      "address": "18489 Smiths Ln",
+      "normalized": "18489 smiths ln"
+    },
+    {
+      "address": "18490 Alfalfa Ln",
+      "normalized": "18490 alfalfa ln"
+    },
+    {
+      "address": "18490 Bayless St",
+      "normalized": "18490 bayless st"
+    },
+    {
+      "address": "18490 Smiths Ln",
+      "normalized": "18490 smiths ln"
+    },
+    {
+      "address": "18491 Smiths Ln",
+      "normalized": "18491 smiths ln"
+    },
+    {
+      "address": "18492 Bayless St",
+      "normalized": "18492 bayless st"
+    },
+    {
+      "address": "18492 Smiths Ln",
+      "normalized": "18492 smiths ln"
+    },
+    {
+      "address": "18494 Ave",
+      "normalized": "18494 ave"
+    },
+    {
+      "address": "18494 Smiths Ln",
+      "normalized": "18494 smiths ln"
+    },
+    {
+      "address": "18497 Smiths Ln",
+      "normalized": "18497 smiths ln"
+    },
+    {
+      "address": "18499 Ave",
+      "normalized": "18499 ave"
+    },
+    {
+      "address": "185 Central Ave",
+      "normalized": "185 central ave"
+    },
+    {
+      "address": "185 Commercial Dr",
+      "normalized": "185 commercial dr"
+    },
+    {
+      "address": "187 W Orange Ave",
+      "normalized": "187 w orange ave"
+    },
+    {
+      "address": "18800 Beech Ave",
+      "normalized": "18800 beech ave"
+    },
+    {
+      "address": "18801 S Ave",
+      "normalized": "18801 s ave"
+    },
+    {
+      "address": "18804 Beech Ave",
+      "normalized": "18804 beech ave"
+    },
+    {
+      "address": "18810 Beech Ave",
+      "normalized": "18810 beech ave"
+    },
+    {
+      "address": "18812 Beech Ave",
+      "normalized": "18812 beech ave"
+    },
+    {
+      "address": "18816 Beech Ave",
+      "normalized": "18816 beech ave"
+    },
+    {
+      "address": "18818 Beech Ave",
+      "normalized": "18818 beech ave"
+    },
+    {
+      "address": "18822 Beech Ave",
+      "normalized": "18822 beech ave"
+    },
+    {
+      "address": "18824 Beech Ave",
+      "normalized": "18824 beech ave"
+    },
+    {
+      "address": "18826 Beech Ave",
+      "normalized": "18826 beech ave"
+    },
+    {
+      "address": "18828 Beech Ave",
+      "normalized": "18828 beech ave"
+    },
+    {
+      "address": "18832 Beech Ave",
+      "normalized": "18832 beech ave"
+    },
+    {
+      "address": "18834 Beech Ave",
+      "normalized": "18834 beech ave"
+    },
+    {
+      "address": "18838 Beech Ave",
+      "normalized": "18838 beech ave"
+    },
+    {
+      "address": "18840 Beech Ave",
+      "normalized": "18840 beech ave"
+    },
+    {
+      "address": "18842 Beech Ave",
+      "normalized": "18842 beech ave"
+    },
+    {
+      "address": "18844 Beech Ave",
+      "normalized": "18844 beech ave"
+    },
+    {
+      "address": "18846 Beech Ave",
+      "normalized": "18846 beech ave"
+    },
+    {
+      "address": "18848 Beech Ave",
+      "normalized": "18848 beech ave"
+    },
+    {
+      "address": "18849 S Ave",
+      "normalized": "18849 s ave"
+    },
+    {
+      "address": "18850 Beech Ave",
+      "normalized": "18850 beech ave"
+    },
+    {
+      "address": "18852 Beech Ave",
+      "normalized": "18852 beech ave"
+    },
+    {
+      "address": "18854 Beech Ave",
+      "normalized": "18854 beech ave"
+    },
+    {
+      "address": "18858 Beech Ave",
+      "normalized": "18858 beech ave"
+    },
+    {
+      "address": "18860 Beech Ave",
+      "normalized": "18860 beech ave"
+    },
+    {
+      "address": "18862 Beech Ave",
+      "normalized": "18862 beech ave"
+    },
+    {
+      "address": "18864 Beech Ave",
+      "normalized": "18864 beech ave"
+    },
+    {
+      "address": "18866 Beech Ave",
+      "normalized": "18866 beech ave"
+    },
+    {
+      "address": "18868 Beech Ave",
+      "normalized": "18868 beech ave"
+    },
+    {
+      "address": "18870 Beech Ave",
+      "normalized": "18870 beech ave"
+    },
+    {
+      "address": "18874 Beech Ave",
+      "normalized": "18874 beech ave"
+    },
+    {
+      "address": "18876 Beech Ave",
+      "normalized": "18876 beech ave"
+    },
+    {
+      "address": "18880 Beech Ave",
+      "normalized": "18880 beech ave"
+    },
+    {
+      "address": "18882 Beech Ave",
+      "normalized": "18882 beech ave"
+    },
+    {
+      "address": "18884 Beech Ave",
+      "normalized": "18884 beech ave"
+    },
+    {
+      "address": "18888 Beech Ave",
+      "normalized": "18888 beech ave"
+    },
+    {
+      "address": "18890 Beech Ave",
+      "normalized": "18890 beech ave"
+    },
+    {
+      "address": "18896 Beech Ave",
+      "normalized": "18896 beech ave"
+    },
+    {
+      "address": "189 Poso Ave",
+      "normalized": "189 poso ave"
+    },
+    {
+      "address": "189 Richland Dr",
+      "normalized": "189 richland dr"
+    },
+    {
+      "address": "190 E Ash Ave",
+      "normalized": "190 e ash ave"
+    },
+    {
+      "address": "19002 Ave",
+      "normalized": "19002 ave"
+    },
+    {
+      "address": "19004 S Ave",
+      "normalized": "19004 s ave"
+    },
+    {
+      "address": "19038 Ave",
+      "normalized": "19038 ave"
+    },
+    {
+      "address": "19040 Ave",
+      "normalized": "19040 ave"
+    },
+    {
+      "address": "19051 Transport Ln",
+      "normalized": "19051 transport ln"
+    },
+    {
+      "address": "19063 Transport Ln",
+      "normalized": "19063 transport ln"
+    },
+    {
+      "address": "19074 Transport Ln",
+      "normalized": "19074 transport ln"
+    },
+    {
+      "address": "19075 Transport Ln",
+      "normalized": "19075 transport ln"
+    },
+    {
+      "address": "19090 Transport Ln",
+      "normalized": "19090 transport ln"
+    },
+    {
+      "address": "19095 Transport Ln",
+      "normalized": "19095 transport ln"
+    },
+    {
+      "address": "19245 Beech Ave",
+      "normalized": "19245 beech ave"
+    },
+    {
+      "address": "1991 E Lerdo Hwy",
+      "normalized": "1991 e lerdo hwy"
+    },
+    {
+      "address": "200 Aspen Way",
+      "normalized": "200 aspen way"
+    },
+    {
+      "address": "200 E Euclid Ave",
+      "normalized": "200 e euclid ave"
+    },
+    {
+      "address": "200 E Orange Ave",
+      "normalized": "200 e orange ave"
+    },
+    {
+      "address": "200 Fuller St",
+      "normalized": "200 fuller st"
+    },
+    {
+      "address": "200 W Tulare Ave",
+      "normalized": "200 w tulare ave"
+    },
+    {
+      "address": "201 E Euclid Ave",
+      "normalized": "201 e euclid ave"
+    },
+    {
+      "address": "201 E Marengo Ave",
+      "normalized": "201 e marengo ave"
+    },
+    {
+      "address": "201 Nickel St",
+      "normalized": "201 nickel st"
+    },
+    {
+      "address": "201 Voth Ln",
+      "normalized": "201 voth ln"
+    },
+    {
+      "address": "203 Voth Ln",
+      "normalized": "203 voth ln"
+    },
+    {
+      "address": "204 Voth Ln",
+      "normalized": "204 voth ln"
+    },
+    {
+      "address": "205 California Ave",
+      "normalized": "205 california ave"
+    },
+    {
+      "address": "205 Voth Ln",
+      "normalized": "205 voth ln"
+    },
+    {
+      "address": "207 Nickel St",
+      "normalized": "207 nickel st"
+    },
+    {
+      "address": "208 E Euclid Ave",
+      "normalized": "208 e euclid ave"
+    },
+    {
+      "address": "209 E Euclid Ave",
+      "normalized": "209 e euclid ave"
+    },
+    {
+      "address": "209 E Marengo Ave",
+      "normalized": "209 e marengo ave"
+    },
+    {
+      "address": "210 Aspen Way",
+      "normalized": "210 aspen way"
+    },
+    {
+      "address": "211 Kern St",
+      "normalized": "211 kern st"
+    },
+    {
+      "address": "211 Voth Ln",
+      "normalized": "211 voth ln"
+    },
+    {
+      "address": "212 E Orange Ave",
+      "normalized": "212 e orange ave"
+    },
+    {
+      "address": "213 Voth Ln",
+      "normalized": "213 voth ln"
+    },
+    {
+      "address": "215 California Ave",
+      "normalized": "215 california ave"
+    },
+    {
+      "address": "215 Nickel St",
+      "normalized": "215 nickel st"
+    },
+    {
+      "address": "216 E Euclid Ave",
+      "normalized": "216 e euclid ave"
+    },
+    {
+      "address": "216 Voth Ln",
+      "normalized": "216 voth ln"
+    },
+    {
+      "address": "216 W Tulare Ave",
+      "normalized": "216 w tulare ave"
+    },
+    {
+      "address": "217 E Marengo Ave",
+      "normalized": "217 e marengo ave"
+    },
+    {
+      "address": "217 Kern St",
+      "normalized": "217 kern st"
+    },
+    {
+      "address": "218 E Orange Ave",
+      "normalized": "218 e orange ave"
+    },
+    {
+      "address": "219 California Ave",
+      "normalized": "219 california ave"
+    },
+    {
+      "address": "219 Nickel St",
+      "normalized": "219 nickel st"
+    },
+    {
+      "address": "220 Aspen Way",
+      "normalized": "220 aspen way"
+    },
+    {
+      "address": "222 Fuller St",
+      "normalized": "222 fuller st"
+    },
+    {
+      "address": "222 Voth Ln",
+      "normalized": "222 voth ln"
+    },
+    {
+      "address": "223 Nickel St",
+      "normalized": "223 nickel st"
+    },
+    {
+      "address": "223 Nickel St Unit A",
+      "normalized": "223 nickel st unit a"
+    },
+    {
+      "address": "223 Nickel St Unit B",
+      "normalized": "223 nickel st unit b"
+    },
+    {
+      "address": "223 Nickel St Unit C",
+      "normalized": "223 nickel st unit c"
+    },
+    {
+      "address": "223 Nickel St Unit D",
+      "normalized": "223 nickel st unit d"
+    },
+    {
+      "address": "224 E Euclid Ave",
+      "normalized": "224 e euclid ave"
+    },
+    {
+      "address": "224 Voth Ln",
+      "normalized": "224 voth ln"
+    },
+    {
+      "address": "224 Walker St",
+      "normalized": "224 walker st"
+    },
+    {
+      "address": "225 E Marengo Ave",
+      "normalized": "225 e marengo ave"
+    },
+    {
+      "address": "225 Voth Ln",
+      "normalized": "225 voth ln"
+    },
+    {
+      "address": "226 E Orange Ave",
+      "normalized": "226 e orange ave"
+    },
+    {
+      "address": "229 California Ave",
+      "normalized": "229 california ave"
+    },
+    {
+      "address": "230 Aspen Way",
+      "normalized": "230 aspen way"
+    },
+    {
+      "address": "230 Central Valley Hwy",
+      "normalized": "230 central valley hwy"
+    },
+    {
+      "address": "230 S Beech Ave",
+      "normalized": "230 s beech ave"
+    },
+    {
+      "address": "232 E Euclid Ave",
+      "normalized": "232 e euclid ave"
+    },
+    {
+      "address": "233 California Ave",
+      "normalized": "233 california ave"
+    },
+    {
+      "address": "233 E Euclid Ave",
+      "normalized": "233 e euclid ave"
+    },
+    {
+      "address": "233 Nickel St",
+      "normalized": "233 nickel st"
+    },
+    {
+      "address": "234 E Orange Ave",
+      "normalized": "234 e orange ave"
+    },
+    {
+      "address": "235 E Euclid Ave",
+      "normalized": "235 e euclid ave"
+    },
+    {
+      "address": "235 E Marengo Ave",
+      "normalized": "235 e marengo ave"
+    },
+    {
+      "address": "235 James St",
+      "normalized": "235 james st"
+    },
+    {
+      "address": "235 Nickel St",
+      "normalized": "235 nickel st"
+    },
+    {
+      "address": "236 Fuller St",
+      "normalized": "236 fuller st"
+    },
+    {
+      "address": "237 E Euclid Ave",
+      "normalized": "237 e euclid ave"
+    },
+    {
+      "address": "237 Nickel St",
+      "normalized": "237 nickel st"
+    },
+    {
+      "address": "239 California Ave",
+      "normalized": "239 california ave"
+    },
+    {
+      "address": "239 Nickel St",
+      "normalized": "239 nickel st"
+    },
+    {
+      "address": "240 E Euclid Ave",
+      "normalized": "240 e euclid ave"
+    },
+    {
+      "address": "240 E Orange Ave",
+      "normalized": "240 e orange ave"
+    },
+    {
+      "address": "241 E Marengo Ave",
+      "normalized": "241 e marengo ave"
+    },
+    {
+      "address": "241 James St",
+      "normalized": "241 james st"
+    },
+    {
+      "address": "242 W Tulare Ave",
+      "normalized": "242 w tulare ave"
+    },
+    {
+      "address": "243 E Marengo Ave",
+      "normalized": "243 e marengo ave"
+    },
+    {
+      "address": "243 Nickel St",
+      "normalized": "243 nickel st"
+    },
+    {
+      "address": "244 E Euclid Ave",
+      "normalized": "244 e euclid ave"
+    },
+    {
+      "address": "245 E Euclid Ave",
+      "normalized": "245 e euclid ave"
+    },
+    {
+      "address": "245 Kern St",
+      "normalized": "245 kern st"
+    },
+    {
+      "address": "245 Nickel St",
+      "normalized": "245 nickel st"
+    },
+    {
+      "address": "247 E Euclid Ave",
+      "normalized": "247 e euclid ave"
+    },
+    {
+      "address": "247 Nickel St",
+      "normalized": "247 nickel st"
+    },
+    {
+      "address": "248 Fuller St",
+      "normalized": "248 fuller st"
+    },
+    {
+      "address": "249 E Marengo Ave",
+      "normalized": "249 e marengo ave"
+    },
+    {
+      "address": "249 Nickel St",
+      "normalized": "249 nickel st"
+    },
+    {
+      "address": "250 E Orange Ave",
+      "normalized": "250 e orange ave"
+    },
+    {
+      "address": "250 W Riverside St",
+      "normalized": "250 w riverside st"
+    },
+    {
+      "address": "251 E Euclid Ave",
+      "normalized": "251 e euclid ave"
+    },
+    {
+      "address": "253 Nickel St",
+      "normalized": "253 nickel st"
+    },
+    {
+      "address": "255 Nickel St",
+      "normalized": "255 nickel st"
+    },
+    {
+      "address": "256 E Euclid Ave",
+      "normalized": "256 e euclid ave"
+    },
+    {
+      "address": "256 E Orange Ave",
+      "normalized": "256 e orange ave"
+    },
+    {
+      "address": "257 E Euclid Ave",
+      "normalized": "257 e euclid ave"
+    },
+    {
+      "address": "257 E Marengo Ave",
+      "normalized": "257 e marengo ave"
+    },
+    {
+      "address": "257 Kern St",
+      "normalized": "257 kern st"
+    },
+    {
+      "address": "257 Nickel St",
+      "normalized": "257 nickel st"
+    },
+    {
+      "address": "258 E Euclid Ave",
+      "normalized": "258 e euclid ave"
+    },
+    {
+      "address": "259 Nickel St",
+      "normalized": "259 nickel st"
+    },
+    {
+      "address": "260 Fuller St",
+      "normalized": "260 fuller st"
+    },
+    {
+      "address": "265 E Euclid Ave",
+      "normalized": "265 e euclid ave"
+    },
+    {
+      "address": "268 E Euclid Ave",
+      "normalized": "268 e euclid ave"
+    },
+    {
+      "address": "268 Sunset Ave",
+      "normalized": "268 sunset ave"
+    },
+    {
+      "address": "269 E Euclid Ave",
+      "normalized": "269 e euclid ave"
+    },
+    {
+      "address": "270 E Euclid Ave",
+      "normalized": "270 e euclid ave"
+    },
+    {
+      "address": "272 E Orange Ave",
+      "normalized": "272 e orange ave"
+    },
+    {
+      "address": "273 Nickel St",
+      "normalized": "273 nickel st"
+    },
+    {
+      "address": "274 E Euclid Ave",
+      "normalized": "274 e euclid ave"
+    },
+    {
+      "address": "274 Fuller St",
+      "normalized": "274 fuller st"
+    },
+    {
+      "address": "275 Nickel St",
+      "normalized": "275 nickel st"
+    },
+    {
+      "address": "276 Sunset Ave",
+      "normalized": "276 sunset ave"
+    },
+    {
+      "address": "277 Nickel St",
+      "normalized": "277 nickel st"
+    },
+    {
+      "address": "279 Nickel St",
+      "normalized": "279 nickel st"
+    },
+    {
+      "address": "280 S Beech Ave",
+      "normalized": "280 s beech ave"
+    },
+    {
+      "address": "281 E Marengo Ave",
+      "normalized": "281 e marengo ave"
+    },
+    {
+      "address": "282 E Orange Ave",
+      "normalized": "282 e orange ave"
+    },
+    {
+      "address": "282 Fuller St",
+      "normalized": "282 fuller st"
+    },
+    {
+      "address": "282 Sunset Ave",
+      "normalized": "282 sunset ave"
+    },
+    {
+      "address": "283 E Euclid Ave",
+      "normalized": "283 e euclid ave"
+    },
+    {
+      "address": "283 E Marengo Ave",
+      "normalized": "283 e marengo ave"
+    },
+    {
+      "address": "283 Nickel St",
+      "normalized": "283 nickel st"
+    },
+    {
+      "address": "284 E Euclid Ave",
+      "normalized": "284 e euclid ave"
+    },
+    {
+      "address": "285 Nickel St",
+      "normalized": "285 nickel st"
+    },
+    {
+      "address": "287 E Marengo Ave",
+      "normalized": "287 e marengo ave"
+    },
+    {
+      "address": "287 Nickel St",
+      "normalized": "287 nickel st"
+    },
+    {
+      "address": "288 E Orange Ave",
+      "normalized": "288 e orange ave"
+    },
+    {
+      "address": "289 Nickel St",
+      "normalized": "289 nickel st"
+    },
+    {
+      "address": "290 S Beech Ave",
+      "normalized": "290 s beech ave"
+    },
+    {
+      "address": "290 Sunset Ave",
+      "normalized": "290 sunset ave"
+    },
+    {
+      "address": "291 E Euclid Ave",
+      "normalized": "291 e euclid ave"
+    },
+    {
+      "address": "292 E Euclid Ave",
+      "normalized": "292 e euclid ave"
+    },
+    {
+      "address": "293 E Marengo Ave",
+      "normalized": "293 e marengo ave"
+    },
+    {
+      "address": "293 Nickel St",
+      "normalized": "293 nickel st"
+    },
+    {
+      "address": "294 E Euclid Ave",
+      "normalized": "294 e euclid ave"
+    },
+    {
+      "address": "295 Nickel St",
+      "normalized": "295 nickel st"
+    },
+    {
+      "address": "296 E Euclid Ave",
+      "normalized": "296 e euclid ave"
+    },
+    {
+      "address": "297 E Marengo Ave",
+      "normalized": "297 e marengo ave"
+    },
+    {
+      "address": "297 Nickel St",
+      "normalized": "297 nickel st"
+    },
+    {
+      "address": "29765 Riverside St",
+      "normalized": "29765 riverside st"
+    },
+    {
+      "address": "29773 Riverside St",
+      "normalized": "29773 riverside st"
+    },
+    {
+      "address": "29783 Riverside St A",
+      "normalized": "29783 riverside st a"
+    },
+    {
+      "address": "29783 Riverside St B",
+      "normalized": "29783 riverside st b"
+    },
+    {
+      "address": "29784 Riverside St",
+      "normalized": "29784 riverside st"
+    },
+    {
+      "address": "29789 Riverside St",
+      "normalized": "29789 riverside st"
+    },
+    {
+      "address": "29795 Riverside St",
+      "normalized": "29795 riverside st"
+    },
+    {
+      "address": "29797 Riverside St",
+      "normalized": "29797 riverside st"
+    },
+    {
+      "address": "29799 Riverside St A",
+      "normalized": "29799 riverside st a"
+    },
+    {
+      "address": "29799 Riverside St B",
+      "normalized": "29799 riverside st b"
+    },
+    {
+      "address": "298 E Euclid Ave",
+      "normalized": "298 e euclid ave"
+    },
+    {
+      "address": "298 Fuller St",
+      "normalized": "298 fuller st"
+    },
+    {
+      "address": "299 E Marengo Ave",
+      "normalized": "299 e marengo ave"
+    },
+    {
+      "address": "299 Nickel St",
+      "normalized": "299 nickel st"
+    },
+    {
+      "address": "29901 Riverside St",
+      "normalized": "29901 riverside st"
+    },
+    {
+      "address": "29903 Riverside St",
+      "normalized": "29903 riverside st"
+    },
+    {
+      "address": "29907 Riverside St",
+      "normalized": "29907 riverside st"
+    },
+    {
+      "address": "29914 Orange St",
+      "normalized": "29914 orange st"
+    },
+    {
+      "address": "300 E Lerdo Hwy",
+      "normalized": "300 e lerdo hwy"
+    },
+    {
+      "address": "300 State Ave",
+      "normalized": "300 state ave"
+    },
+    {
+      "address": "300 W Tulare Ave",
+      "normalized": "300 w tulare ave"
+    },
+    {
+      "address": "301 E Lerdo Hwy",
+      "normalized": "301 e lerdo hwy"
+    },
+    {
+      "address": "30368 Orange St",
+      "normalized": "30368 orange st"
+    },
+    {
+      "address": "30369 Richland Ave",
+      "normalized": "30369 richland ave"
+    },
+    {
+      "address": "30372 Orange St",
+      "normalized": "30372 orange st"
+    },
+    {
+      "address": "30373 Richland Ave",
+      "normalized": "30373 richland ave"
+    },
+    {
+      "address": "30376 Orange St",
+      "normalized": "30376 orange st"
+    },
+    {
+      "address": "30377 Richland Ave",
+      "normalized": "30377 richland ave"
+    },
+    {
+      "address": "30378 Orange St",
+      "normalized": "30378 orange st"
+    },
+    {
+      "address": "30379 Richland Ave",
+      "normalized": "30379 richland ave"
+    },
+    {
+      "address": "30380 Orange St",
+      "normalized": "30380 orange st"
+    },
+    {
+      "address": "30381 Richland Ave",
+      "normalized": "30381 richland ave"
+    },
+    {
+      "address": "30382 Orange St",
+      "normalized": "30382 orange st"
+    },
+    {
+      "address": "30383 Richland Ave",
+      "normalized": "30383 richland ave"
+    },
+    {
+      "address": "30384 Orange St",
+      "normalized": "30384 orange st"
+    },
+    {
+      "address": "30390 Orange St",
+      "normalized": "30390 orange st"
+    },
+    {
+      "address": "30391 Richland Ave",
+      "normalized": "30391 richland ave"
+    },
+    {
+      "address": "304 Arroyo Seco Ave",
+      "normalized": "304 arroyo seco ave"
+    },
+    {
+      "address": "304 E Marengo Ave",
+      "normalized": "304 e marengo ave"
+    },
+    {
+      "address": "304 W Tulare Ave",
+      "normalized": "304 w tulare ave"
+    },
+    {
+      "address": "30504 Orange St",
+      "normalized": "30504 orange st"
+    },
+    {
+      "address": "30506 Orange St",
+      "normalized": "30506 orange st"
+    },
+    {
+      "address": "30508 Orange St",
+      "normalized": "30508 orange st"
+    },
+    {
+      "address": "30510 Orange St",
+      "normalized": "30510 orange st"
+    },
+    {
+      "address": "30512 Orange St",
+      "normalized": "30512 orange st"
+    },
+    {
+      "address": "30514 Orange St",
+      "normalized": "30514 orange st"
+    },
+    {
+      "address": "30518 Orange St",
+      "normalized": "30518 orange st"
+    },
+    {
+      "address": "30519 Madera Ave",
+      "normalized": "30519 madera ave"
+    },
+    {
+      "address": "30520 Orange St",
+      "normalized": "30520 orange st"
+    },
+    {
+      "address": "30522 Orange St",
+      "normalized": "30522 orange st"
+    },
+    {
+      "address": "30528 E Fresno Ave",
+      "normalized": "30528 e fresno ave"
+    },
+    {
+      "address": "30530 Orange St",
+      "normalized": "30530 orange st"
+    },
+    {
+      "address": "30534 Orange St",
+      "normalized": "30534 orange st"
+    },
+    {
+      "address": "30540 Imperial St",
+      "normalized": "30540 imperial st"
+    },
+    {
+      "address": "30540 Orange St",
+      "normalized": "30540 orange st"
+    },
+    {
+      "address": "30542 Orange St",
+      "normalized": "30542 orange st"
+    },
+    {
+      "address": "30543 San Diego St",
+      "normalized": "30543 san diego st"
+    },
+    {
+      "address": "30548 Orange St",
+      "normalized": "30548 orange st"
+    },
+    {
+      "address": "30552 Orange St",
+      "normalized": "30552 orange st"
+    },
+    {
+      "address": "30554 Orange St",
+      "normalized": "30554 orange st"
+    },
+    {
+      "address": "30558 Orange St",
+      "normalized": "30558 orange st"
+    },
+    {
+      "address": "30562 Orange St",
+      "normalized": "30562 orange st"
+    },
+    {
+      "address": "30572 E Los Angeles Ave",
+      "normalized": "30572 e los angeles ave"
+    },
+    {
+      "address": "30573 San Diego St",
+      "normalized": "30573 san diego st"
+    },
+    {
+      "address": "306 E Marengo Ave",
+      "normalized": "306 e marengo ave"
+    },
+    {
+      "address": "30706 Imperial St",
+      "normalized": "30706 imperial st"
+    },
+    {
+      "address": "30715 San Diego St",
+      "normalized": "30715 san diego st"
+    },
+    {
+      "address": "30728 Imperial St",
+      "normalized": "30728 imperial st"
+    },
+    {
+      "address": "30737 San Diego St",
+      "normalized": "30737 san diego st"
+    },
+    {
+      "address": "30739 Sharp Way",
+      "normalized": "30739 sharp way"
+    },
+    {
+      "address": "30740 Imperial St",
+      "normalized": "30740 imperial st"
+    },
+    {
+      "address": "30742 Sharp Way",
+      "normalized": "30742 sharp way"
+    },
+    {
+      "address": "30749 Waymon Ave",
+      "normalized": "30749 waymon ave"
+    },
+    {
+      "address": "30751 Sharp Way",
+      "normalized": "30751 sharp way"
+    },
+    {
+      "address": "30752 Imperial St",
+      "normalized": "30752 imperial st"
+    },
+    {
+      "address": "30764 Imperial St A",
+      "normalized": "30764 imperial st a"
+    },
+    {
+      "address": "30764 Imperial St B",
+      "normalized": "30764 imperial st b"
+    },
+    {
+      "address": "30781 San Diego St",
+      "normalized": "30781 san diego st"
+    },
+    {
+      "address": "30787 Burbank St",
+      "normalized": "30787 burbank st"
+    },
+    {
+      "address": "308 State Ave",
+      "normalized": "308 state ave"
+    },
+    {
+      "address": "309 California Ave",
+      "normalized": "309 california ave"
+    },
+    {
+      "address": "30906 San Diego St",
+      "normalized": "30906 san diego st"
+    },
+    {
+      "address": "30907 Burbank St",
+      "normalized": "30907 burbank st"
+    },
+    {
+      "address": "30909 Burbank St",
+      "normalized": "30909 burbank st"
+    },
+    {
+      "address": "314 E Marengo Ave",
+      "normalized": "314 e marengo ave"
+    },
+    {
+      "address": "315 James St",
+      "normalized": "315 james st"
+    },
+    {
+      "address": "316 Arroyo Seco Ave",
+      "normalized": "316 arroyo seco ave"
+    },
+    {
+      "address": "316 State Ave",
+      "normalized": "316 state ave"
+    },
+    {
+      "address": "316 Venable Ln",
+      "normalized": "316 venable ln"
+    },
+    {
+      "address": "320 Central Valley Hwy",
+      "normalized": "320 central valley hwy"
+    },
+    {
+      "address": "320 E Marengo Ave",
+      "normalized": "320 e marengo ave"
+    },
+    {
+      "address": "320 James St",
+      "normalized": "320 james st"
+    },
+    {
+      "address": "320 State Ave",
+      "normalized": "320 state ave"
+    },
+    {
+      "address": "322 E Marengo Ave",
+      "normalized": "322 e marengo ave"
+    },
+    {
+      "address": "322 State Ave",
+      "normalized": "322 state ave"
+    },
+    {
+      "address": "326 E Marengo Ave",
+      "normalized": "326 e marengo ave"
+    },
+    {
+      "address": "328 Arroyo Seco Ave",
+      "normalized": "328 arroyo seco ave"
+    },
+    {
+      "address": "329 Central Valley Hwy",
+      "normalized": "329 central valley hwy"
+    },
+    {
+      "address": "330 E Marengo Ave",
+      "normalized": "330 e marengo ave"
+    },
+    {
+      "address": "330 Venable Ln",
+      "normalized": "330 venable ln"
+    },
+    {
+      "address": "332 E Marengo Ave",
+      "normalized": "332 e marengo ave"
+    },
+    {
+      "address": "334 E Marengo Ave",
+      "normalized": "334 e marengo ave"
+    },
+    {
+      "address": "336 E Marengo Ave",
+      "normalized": "336 e marengo ave"
+    },
+    {
+      "address": "337 E Lerdo Hwy",
+      "normalized": "337 e lerdo hwy"
+    },
+    {
+      "address": "340 Arroyo Seco Ave",
+      "normalized": "340 arroyo seco ave"
+    },
+    {
+      "address": "352 Arroyo Seco Ave",
+      "normalized": "352 arroyo seco ave"
+    },
+    {
+      "address": "3601 Santa Fe Way",
+      "normalized": "3601 santa fe way"
+    },
+    {
+      "address": "364 Arroyo Seco Ave",
+      "normalized": "364 arroyo seco ave"
+    },
+    {
+      "address": "3701 Santa Fe Way",
+      "normalized": "3701 santa fe way"
+    },
+    {
+      "address": "3751 Santa Fe Way",
+      "normalized": "3751 santa fe way"
+    },
+    {
+      "address": "376 Arroyo Seco Ave",
+      "normalized": "376 arroyo seco ave"
+    },
+    {
+      "address": "380 E Marengo Ave",
+      "normalized": "380 e marengo ave"
+    },
+    {
+      "address": "3801 Santa Fe Way",
+      "normalized": "3801 santa fe way"
+    },
+    {
+      "address": "3851 Santa Fe Way",
+      "normalized": "3851 santa fe way"
+    },
+    {
+      "address": "388 Arroyo Seco Ave",
+      "normalized": "388 arroyo seco ave"
+    },
+    {
+      "address": "3951 Santa Fe Way",
+      "normalized": "3951 santa fe way"
+    },
+    {
+      "address": "396 Prince Ln",
+      "normalized": "396 prince ln"
+    },
+    {
+      "address": "400 Central Valley Hwy",
+      "normalized": "400 central valley hwy"
+    },
+    {
+      "address": "400 Kern St",
+      "normalized": "400 kern st"
+    },
+    {
+      "address": "400 Prince Ln",
+      "normalized": "400 prince ln"
+    },
+    {
+      "address": "400 S Wall St",
+      "normalized": "400 s wall st"
+    },
+    {
+      "address": "4000 Bishop St",
+      "normalized": "4000 bishop st"
+    },
+    {
+      "address": "4001 Santa Fe Way",
+      "normalized": "4001 santa fe way"
+    },
+    {
+      "address": "401 Gibson Ln",
+      "normalized": "401 gibson ln"
+    },
+    {
+      "address": "401 Klassen Dr",
+      "normalized": "401 klassen dr"
+    },
+    {
+      "address": "4010 Bishop St",
+      "normalized": "4010 bishop st"
+    },
+    {
+      "address": "402 Central Ave",
+      "normalized": "402 central ave"
+    },
+    {
+      "address": "402 S Wall St A",
+      "normalized": "402 s wall st a"
+    },
+    {
+      "address": "402 S Wall St B",
+      "normalized": "402 s wall st b"
+    },
+    {
+      "address": "4020 Bishop St",
+      "normalized": "4020 bishop st"
+    },
+    {
+      "address": "403 Central Ave",
+      "normalized": "403 central ave"
+    },
+    {
+      "address": "403 S Ave",
+      "normalized": "403 s ave"
+    },
+    {
+      "address": "404 E Los Angeles Ave",
+      "normalized": "404 e los angeles ave"
+    },
+    {
+      "address": "405 Central Ave",
+      "normalized": "405 central ave"
+    },
+    {
+      "address": "406 Arroyo Seco Ave",
+      "normalized": "406 arroyo seco ave"
+    },
+    {
+      "address": "407 Central Ave",
+      "normalized": "407 central ave"
+    },
+    {
+      "address": "409 Gibson Ln",
+      "normalized": "409 gibson ln"
+    },
+    {
+      "address": "410 E Los Angeles Ave",
+      "normalized": "410 e los angeles ave"
+    },
+    {
+      "address": "410 S Ave",
+      "normalized": "410 s ave"
+    },
+    {
+      "address": "413 Central Ave",
+      "normalized": "413 central ave"
+    },
+    {
+      "address": "413 Munzer St",
+      "normalized": "413 munzer st"
+    },
+    {
+      "address": "414 S Ave",
+      "normalized": "414 s ave"
+    },
+    {
+      "address": "415 Klassen Dr",
+      "normalized": "415 klassen dr"
+    },
+    {
+      "address": "415 S Ave",
+      "normalized": "415 s ave"
+    },
+    {
+      "address": "416 Prince Ln",
+      "normalized": "416 prince ln"
+    },
+    {
+      "address": "417 Gibson Ln",
+      "normalized": "417 gibson ln"
+    },
+    {
+      "address": "418 Arroyo Seco Ave",
+      "normalized": "418 arroyo seco ave"
+    },
+    {
+      "address": "420 W Ash Ave",
+      "normalized": "420 w ash ave"
+    },
+    {
+      "address": "421 Munzer St",
+      "normalized": "421 munzer st"
+    },
+    {
+      "address": "4221 Roxy Ln",
+      "normalized": "4221 roxy ln"
+    },
+    {
+      "address": "4231 Roxy Ln",
+      "normalized": "4231 roxy ln"
+    },
+    {
+      "address": "424 S Ave",
+      "normalized": "424 s ave"
+    },
+    {
+      "address": "425 Gibson Ln",
+      "normalized": "425 gibson ln"
+    },
+    {
+      "address": "425 S Ave",
+      "normalized": "425 s ave"
+    },
+    {
+      "address": "428 S Ave",
+      "normalized": "428 s ave"
+    },
+    {
+      "address": "430 Arroyo Seco Ave",
+      "normalized": "430 arroyo seco ave"
+    },
+    {
+      "address": "4301 Loraine Ln",
+      "normalized": "4301 loraine ln"
+    },
+    {
+      "address": "431 Klassen Dr",
+      "normalized": "431 klassen dr"
+    },
+    {
+      "address": "4310 Bowles St",
+      "normalized": "4310 bowles st"
+    },
+    {
+      "address": "4311 Loraine Ln",
+      "normalized": "4311 loraine ln"
+    },
+    {
+      "address": "4320 Bowles St",
+      "normalized": "4320 bowles st"
+    },
+    {
+      "address": "4321 Loraine Ln",
+      "normalized": "4321 loraine ln"
+    },
+    {
+      "address": "433 Gibson Ln",
+      "normalized": "433 gibson ln"
+    },
+    {
+      "address": "4330 Bowles St",
+      "normalized": "4330 bowles st"
+    },
+    {
+      "address": "4331 Loraine Ln",
+      "normalized": "4331 loraine ln"
+    },
+    {
+      "address": "434 Central Valley Hwy",
+      "normalized": "434 central valley hwy"
+    },
+    {
+      "address": "4340 Bowles St",
+      "normalized": "4340 bowles st"
+    },
+    {
+      "address": "4341 Loraine Ln",
+      "normalized": "4341 loraine ln"
+    },
+    {
+      "address": "438 Prince Ln",
+      "normalized": "438 prince ln"
+    },
+    {
+      "address": "440 Prince Ln",
+      "normalized": "440 prince ln"
+    },
+    {
+      "address": "4400 Bowles St",
+      "normalized": "4400 bowles st"
+    },
+    {
+      "address": "4401 Loraine Ln",
+      "normalized": "4401 loraine ln"
+    },
+    {
+      "address": "441 Gibson Ln",
+      "normalized": "441 gibson ln"
+    },
+    {
+      "address": "4410 Bowles St",
+      "normalized": "4410 bowles st"
+    },
+    {
+      "address": "4411 Loraine Ln",
+      "normalized": "4411 loraine ln"
+    },
+    {
+      "address": "4414 Bowles St",
+      "normalized": "4414 bowles st"
+    },
+    {
+      "address": "442 Arroyo Seco Ave",
+      "normalized": "442 arroyo seco ave"
+    },
+    {
+      "address": "442 Prince Ln",
+      "normalized": "442 prince ln"
+    },
+    {
+      "address": "4420 Bowles St",
+      "normalized": "4420 bowles st"
+    },
+    {
+      "address": "4421 Loraine Ln",
+      "normalized": "4421 loraine ln"
+    },
+    {
+      "address": "4425 Loraine Ln",
+      "normalized": "4425 loraine ln"
+    },
+    {
+      "address": "4430 Bowles St",
+      "normalized": "4430 bowles st"
+    },
+    {
+      "address": "4434 Bowles St",
+      "normalized": "4434 bowles st"
+    },
+    {
+      "address": "444 Klassen Dr",
+      "normalized": "444 klassen dr"
+    },
+    {
+      "address": "4440 Bowles St",
+      "normalized": "4440 bowles st"
+    },
+    {
+      "address": "445 Klassen Dr",
+      "normalized": "445 klassen dr"
+    },
+    {
+      "address": "449 Gibson Ln",
+      "normalized": "449 gibson ln"
+    },
+    {
+      "address": "4500 Bowles St",
+      "normalized": "4500 bowles st"
+    },
+    {
+      "address": "451 E Lerdo Hwy",
+      "normalized": "451 e lerdo hwy"
+    },
+    {
+      "address": "453 Sunny St",
+      "normalized": "453 sunny st"
+    },
+    {
+      "address": "454 Arroyo Seco Ave",
+      "normalized": "454 arroyo seco ave"
+    },
+    {
+      "address": "454 Central Ave",
+      "normalized": "454 central ave"
+    },
+    {
+      "address": "455 E Ash Ave",
+      "normalized": "455 e ash ave"
+    },
+    {
+      "address": "455 E Ash Ave Bldg 1",
+      "normalized": "455 e ash ave bldg 1"
+    },
+    {
+      "address": "455 E Ash Ave Bldg 10",
+      "normalized": "455 e ash ave bldg 10"
+    },
+    {
+      "address": "455 E Ash Ave Bldg 11",
+      "normalized": "455 e ash ave bldg 11"
+    },
+    {
+      "address": "455 E Ash Ave Bldg 12",
+      "normalized": "455 e ash ave bldg 12"
+    },
+    {
+      "address": "455 E Ash Ave Bldg 13",
+      "normalized": "455 e ash ave bldg 13"
+    },
+    {
+      "address": "455 E Ash Ave Bldg 14",
+      "normalized": "455 e ash ave bldg 14"
+    },
+    {
+      "address": "455 E Ash Ave Bldg 15",
+      "normalized": "455 e ash ave bldg 15"
+    },
+    {
+      "address": "455 E Ash Ave Bldg 16",
+      "normalized": "455 e ash ave bldg 16"
+    },
+    {
+      "address": "455 E Ash Ave Bldg 2",
+      "normalized": "455 e ash ave bldg 2"
+    },
+    {
+      "address": "455 E Ash Ave Bldg 3",
+      "normalized": "455 e ash ave bldg 3"
+    },
+    {
+      "address": "455 E Ash Ave Bldg 4",
+      "normalized": "455 e ash ave bldg 4"
+    },
+    {
+      "address": "455 E Ash Ave Bldg 5",
+      "normalized": "455 e ash ave bldg 5"
+    },
+    {
+      "address": "455 E Ash Ave Bldg 6",
+      "normalized": "455 e ash ave bldg 6"
+    },
+    {
+      "address": "455 E Ash Ave Bldg 7",
+      "normalized": "455 e ash ave bldg 7"
+    },
+    {
+      "address": "455 E Ash Ave Bldg 8",
+      "normalized": "455 e ash ave bldg 8"
+    },
+    {
+      "address": "455 E Ash Ave Bldg 9",
+      "normalized": "455 e ash ave bldg 9"
+    },
+    {
+      "address": "455 Kern St",
+      "normalized": "455 kern st"
+    },
+    {
+      "address": "456 Prince Ln",
+      "normalized": "456 prince ln"
+    },
+    {
+      "address": "457 Gibson Ln",
+      "normalized": "457 gibson ln"
+    },
+    {
+      "address": "457 Sunny St",
+      "normalized": "457 sunny st"
+    },
+    {
+      "address": "460 Klassen Dr",
+      "normalized": "460 klassen dr"
+    },
+    {
+      "address": "464 Prince Ln",
+      "normalized": "464 prince ln"
+    },
+    {
+      "address": "465 Calloway St",
+      "normalized": "465 calloway st"
+    },
+    {
+      "address": "465 Gibson Ln",
+      "normalized": "465 gibson ln"
+    },
+    {
+      "address": "465 Klassen Dr",
+      "normalized": "465 klassen dr"
+    },
+    {
+      "address": "465 N Ave",
+      "normalized": "465 n ave"
+    },
+    {
+      "address": "466 Arroyo Seco Ave",
+      "normalized": "466 arroyo seco ave"
+    },
+    {
+      "address": "467 N Ave A",
+      "normalized": "467 n ave a"
+    },
+    {
+      "address": "467 N Ave B",
+      "normalized": "467 n ave b"
+    },
+    {
+      "address": "469 N Ave A",
+      "normalized": "469 n ave a"
+    },
+    {
+      "address": "469 N Ave B",
+      "normalized": "469 n ave b"
+    },
+    {
+      "address": "469 Sunny St",
+      "normalized": "469 sunny st"
+    },
+    {
+      "address": "470 Klassen Dr",
+      "normalized": "470 klassen dr"
+    },
+    {
+      "address": "471 Gibson Ln",
+      "normalized": "471 gibson ln"
+    },
+    {
+      "address": "471 Klassen Dr",
+      "normalized": "471 klassen dr"
+    },
+    {
+      "address": "472 Klassen Dr",
+      "normalized": "472 klassen dr"
+    },
+    {
+      "address": "474 Klassen Dr",
+      "normalized": "474 klassen dr"
+    },
+    {
+      "address": "475 Klassen Dr",
+      "normalized": "475 klassen dr"
+    },
+    {
+      "address": "477 N Ave",
+      "normalized": "477 n ave"
+    },
+    {
+      "address": "478 Arroyo Seco Ave",
+      "normalized": "478 arroyo seco ave"
+    },
+    {
+      "address": "479 Klassen Dr",
+      "normalized": "479 klassen dr"
+    },
+    {
+      "address": "480 Klassen Dr",
+      "normalized": "480 klassen dr"
+    },
+    {
+      "address": "482 Klassen Dr",
+      "normalized": "482 klassen dr"
+    },
+    {
+      "address": "485 Klassen Dr",
+      "normalized": "485 klassen dr"
+    },
+    {
+      "address": "487 N Ave",
+      "normalized": "487 n ave"
+    },
+    {
+      "address": "488 Klassen Dr",
+      "normalized": "488 klassen dr"
+    },
+    {
+      "address": "490 Klassen Dr",
+      "normalized": "490 klassen dr"
+    },
+    {
+      "address": "500 W Los Angeles Ave",
+      "normalized": "500 w los angeles ave"
+    },
+    {
+      "address": "502 Prince Ln",
+      "normalized": "502 prince ln"
+    },
+    {
+      "address": "502 Santa Maria Way",
+      "normalized": "502 santa maria way"
+    },
+    {
+      "address": "503 Vera Cruz Way",
+      "normalized": "503 vera cruz way"
+    },
+    {
+      "address": "504 Central Ave",
+      "normalized": "504 central ave"
+    },
+    {
+      "address": "505 Sunset Ave",
+      "normalized": "505 sunset ave"
+    },
+    {
+      "address": "507 Wisteria Dr",
+      "normalized": "507 wisteria dr"
+    },
+    {
+      "address": "508 Sunny St",
+      "normalized": "508 sunny st"
+    },
+    {
+      "address": "509 Gibson Ln",
+      "normalized": "509 gibson ln"
+    },
+    {
+      "address": "510 California Ave",
+      "normalized": "510 california ave"
+    },
+    {
+      "address": "511 Central Ave",
+      "normalized": "511 central ave"
+    },
+    {
+      "address": "511 Wisteria Dr",
+      "normalized": "511 wisteria dr"
+    },
+    {
+      "address": "512 Sunny St",
+      "normalized": "512 sunny st"
+    },
+    {
+      "address": "513 Sunny St",
+      "normalized": "513 sunny st"
+    },
+    {
+      "address": "514 Prince Ln",
+      "normalized": "514 prince ln"
+    },
+    {
+      "address": "514 Santa Maria Way",
+      "normalized": "514 santa maria way"
+    },
+    {
+      "address": "515 Calloway St",
+      "normalized": "515 calloway st"
+    },
+    {
+      "address": "515 Klassen Dr",
+      "normalized": "515 klassen dr"
+    },
+    {
+      "address": "515 N Central Valley Hwy",
+      "normalized": "515 n central valley hwy"
+    },
+    {
+      "address": "515 Vera Cruz Way",
+      "normalized": "515 vera cruz way"
+    },
+    {
+      "address": "516 Klassen Dr",
+      "normalized": "516 klassen dr"
+    },
+    {
+      "address": "516 Prince Ln",
+      "normalized": "516 prince ln"
+    },
+    {
+      "address": "516 Sunny St",
+      "normalized": "516 sunny st"
+    },
+    {
+      "address": "517 Gibson Ln",
+      "normalized": "517 gibson ln"
+    },
+    {
+      "address": "518 Poso Ave",
+      "normalized": "518 poso ave"
+    },
+    {
+      "address": "519 English Ln",
+      "normalized": "519 english ln"
+    },
+    {
+      "address": "519 Sunset Ave",
+      "normalized": "519 sunset ave"
+    },
+    {
+      "address": "520 California Ave",
+      "normalized": "520 california ave"
+    },
+    {
+      "address": "520 Poso Ave",
+      "normalized": "520 poso ave"
+    },
+    {
+      "address": "521 Sunset Ave",
+      "normalized": "521 sunset ave"
+    },
+    {
+      "address": "523 Klassen Dr",
+      "normalized": "523 klassen dr"
+    },
+    {
+      "address": "524 Prince Ln",
+      "normalized": "524 prince ln"
+    },
+    {
+      "address": "524 S Poplar Ave",
+      "normalized": "524 s poplar ave"
+    },
+    {
+      "address": "525 Gibson Ln",
+      "normalized": "525 gibson ln"
+    },
+    {
+      "address": "525 Kern St",
+      "normalized": "525 kern st"
+    },
+    {
+      "address": "526 Klassen Dr",
+      "normalized": "526 klassen dr"
+    },
+    {
+      "address": "526 Santa Maria Way",
+      "normalized": "526 santa maria way"
+    },
+    {
+      "address": "527 English Ln",
+      "normalized": "527 english ln"
+    },
+    {
+      "address": "527 Sunset Ave",
+      "normalized": "527 sunset ave"
+    },
+    {
+      "address": "527 Vera Cruz Way",
+      "normalized": "527 vera cruz way"
+    },
+    {
+      "address": "528 Central Ave",
+      "normalized": "528 central ave"
+    },
+    {
+      "address": "528 Poso Ave",
+      "normalized": "528 poso ave"
+    },
+    {
+      "address": "529 Central Ave",
+      "normalized": "529 central ave"
+    },
+    {
+      "address": "532 Prince Ln",
+      "normalized": "532 prince ln"
+    },
+    {
+      "address": "532 Sunny St",
+      "normalized": "532 sunny st"
+    },
+    {
+      "address": "533 Gibson Ln",
+      "normalized": "533 gibson ln"
+    },
+    {
+      "address": "534 Poso Ave",
+      "normalized": "534 poso ave"
+    },
+    {
+      "address": "535 Central Ave",
+      "normalized": "535 central ave"
+    },
+    {
+      "address": "535 Gibson Ln",
+      "normalized": "535 gibson ln"
+    },
+    {
+      "address": "535 Sunset Ave",
+      "normalized": "535 sunset ave"
+    },
+    {
+      "address": "536 California Ave",
+      "normalized": "536 california ave"
+    },
+    {
+      "address": "536 Klassen Dr",
+      "normalized": "536 klassen dr"
+    },
+    {
+      "address": "537 Central Ave",
+      "normalized": "537 central ave"
+    },
+    {
+      "address": "537 Pacific Ave",
+      "normalized": "537 pacific ave"
+    },
+    {
+      "address": "538 Central Ave",
+      "normalized": "538 central ave"
+    },
+    {
+      "address": "538 Santa Maria Way",
+      "normalized": "538 santa maria way"
+    },
+    {
+      "address": "539 Vera Cruz Way",
+      "normalized": "539 vera cruz way"
+    },
+    {
+      "address": "540 Prince Ln",
+      "normalized": "540 prince ln"
+    },
+    {
+      "address": "542 Poso Ave",
+      "normalized": "542 poso ave"
+    },
+    {
+      "address": "543 Klassen Dr",
+      "normalized": "543 klassen dr"
+    },
+    {
+      "address": "543 Pacific Ave",
+      "normalized": "543 pacific ave"
+    },
+    {
+      "address": "543 Sunset Ave",
+      "normalized": "543 sunset ave"
+    },
+    {
+      "address": "544 Klassen Dr",
+      "normalized": "544 klassen dr"
+    },
+    {
+      "address": "545 Central Ave",
+      "normalized": "545 central ave"
+    },
+    {
+      "address": "545 Klassen Dr",
+      "normalized": "545 klassen dr"
+    },
+    {
+      "address": "545 Sunset Ave",
+      "normalized": "545 sunset ave"
+    },
+    {
+      "address": "548 Poso Ave",
+      "normalized": "548 poso ave"
+    },
+    {
+      "address": "548 Walker St",
+      "normalized": "548 walker st"
+    },
+    {
+      "address": "549 Gibson Ln",
+      "normalized": "549 gibson ln"
+    },
+    {
+      "address": "550 Central Ave",
+      "normalized": "550 central ave"
+    },
+    {
+      "address": "550 Hicks Ln",
+      "normalized": "550 hicks ln"
+    },
+    {
+      "address": "550 Mccrumb Ln",
+      "normalized": "550 mccrumb ln"
+    },
+    {
+      "address": "550 Santa Maria Way",
+      "normalized": "550 santa maria way"
+    },
+    {
+      "address": "551 Central Ave",
+      "normalized": "551 central ave"
+    },
+    {
+      "address": "551 Hicks Ln",
+      "normalized": "551 hicks ln"
+    },
+    {
+      "address": "551 Vera Cruz Way",
+      "normalized": "551 vera cruz way"
+    },
+    {
+      "address": "552 California Ave",
+      "normalized": "552 california ave"
+    },
+    {
+      "address": "554 Hicks Ln",
+      "normalized": "554 hicks ln"
+    },
+    {
+      "address": "555 Hicks Ln",
+      "normalized": "555 hicks ln"
+    },
+    {
+      "address": "556 Prince Ln",
+      "normalized": "556 prince ln"
+    },
+    {
+      "address": "558 Central Ave",
+      "normalized": "558 central ave"
+    },
+    {
+      "address": "558 Hicks Ln",
+      "normalized": "558 hicks ln"
+    },
+    {
+      "address": "558 S Poplar Ave",
+      "normalized": "558 s poplar ave"
+    },
+    {
+      "address": "559 Hicks Ln",
+      "normalized": "559 hicks ln"
+    },
+    {
+      "address": "560 Central Ave",
+      "normalized": "560 central ave"
+    },
+    {
+      "address": "562 Central Ave",
+      "normalized": "562 central ave"
+    },
+    {
+      "address": "562 Hicks Ln",
+      "normalized": "562 hicks ln"
+    },
+    {
+      "address": "562 Santa Maria Way",
+      "normalized": "562 santa maria way"
+    },
+    {
+      "address": "563 Hicks Ln",
+      "normalized": "563 hicks ln"
+    },
+    {
+      "address": "563 Vera Cruz Way",
+      "normalized": "563 vera cruz way"
+    },
+    {
+      "address": "564 Central Ave",
+      "normalized": "564 central ave"
+    },
+    {
+      "address": "565 Kern St",
+      "normalized": "565 kern st"
+    },
+    {
+      "address": "565 Klassen Dr",
+      "normalized": "565 klassen dr"
+    },
+    {
+      "address": "566 Klassen Dr",
+      "normalized": "566 klassen dr"
+    },
+    {
+      "address": "566 Mccrumb Ln",
+      "normalized": "566 mccrumb ln"
+    },
+    {
+      "address": "568 Central Ave",
+      "normalized": "568 central ave"
+    },
+    {
+      "address": "568 Hicks Ln",
+      "normalized": "568 hicks ln"
+    },
+    {
+      "address": "570 Klassen Dr",
+      "normalized": "570 klassen dr"
+    },
+    {
+      "address": "570 Mccrumb Ln",
+      "normalized": "570 mccrumb ln"
+    },
+    {
+      "address": "571 Hicks Ln",
+      "normalized": "571 hicks ln"
+    },
+    {
+      "address": "574 Santa Maria Way",
+      "normalized": "574 santa maria way"
+    },
+    {
+      "address": "575 Vera Cruz Way",
+      "normalized": "575 vera cruz way"
+    },
+    {
+      "address": "576 Klassen Dr",
+      "normalized": "576 klassen dr"
+    },
+    {
+      "address": "577 Klassen Dr",
+      "normalized": "577 klassen dr"
+    },
+    {
+      "address": "581 Klassen Dr",
+      "normalized": "581 klassen dr"
+    },
+    {
+      "address": "581 Sunny St",
+      "normalized": "581 sunny st"
+    },
+    {
+      "address": "582 S Poplar Ave",
+      "normalized": "582 s poplar ave"
+    },
+    {
+      "address": "586 Santa Maria Way",
+      "normalized": "586 santa maria way"
+    },
+    {
+      "address": "586 Sunny St",
+      "normalized": "586 sunny st"
+    },
+    {
+      "address": "587 Klassen Dr",
+      "normalized": "587 klassen dr"
+    },
+    {
+      "address": "595 Vera Cruz Way",
+      "normalized": "595 vera cruz way"
+    },
+    {
+      "address": "598 Santa Maria Way",
+      "normalized": "598 santa maria way"
+    },
+    {
+      "address": "600 Central Ave",
+      "normalized": "600 central ave"
+    },
+    {
+      "address": "603 Pacific Ave",
+      "normalized": "603 pacific ave"
+    },
+    {
+      "address": "607 Pacific Ave",
+      "normalized": "607 pacific ave"
+    },
+    {
+      "address": "608 Central Ave",
+      "normalized": "608 central ave"
+    },
+    {
+      "address": "609 Manhattan St",
+      "normalized": "609 manhattan st"
+    },
+    {
+      "address": "611 E Lerdo Hwy",
+      "normalized": "611 e lerdo hwy"
+    },
+    {
+      "address": "615 Manhattan St",
+      "normalized": "615 manhattan st"
+    },
+    {
+      "address": "616 S Poplar Ave",
+      "normalized": "616 s poplar ave"
+    },
+    {
+      "address": "618 California Ave",
+      "normalized": "618 california ave"
+    },
+    {
+      "address": "620 California Ave",
+      "normalized": "620 california ave"
+    },
+    {
+      "address": "620 Central Ave",
+      "normalized": "620 central ave"
+    },
+    {
+      "address": "621 Pacific Ave",
+      "normalized": "621 pacific ave"
+    },
+    {
+      "address": "622 California Ave",
+      "normalized": "622 california ave"
+    },
+    {
+      "address": "623 Pacific Ave",
+      "normalized": "623 pacific ave"
+    },
+    {
+      "address": "624 California Ave",
+      "normalized": "624 california ave"
+    },
+    {
+      "address": "624 Central Ave",
+      "normalized": "624 central ave"
+    },
+    {
+      "address": "625 N Central Valley Hwy",
+      "normalized": "625 n central valley hwy"
+    },
+    {
+      "address": "625 Pacific Ave",
+      "normalized": "625 pacific ave"
+    },
+    {
+      "address": "626 Central Ave",
+      "normalized": "626 central ave"
+    },
+    {
+      "address": "627 Pacific Ave",
+      "normalized": "627 pacific ave"
+    },
+    {
+      "address": "629 Central Ave",
+      "normalized": "629 central ave"
+    },
+    {
+      "address": "629 Pacific Ave",
+      "normalized": "629 pacific ave"
+    },
+    {
+      "address": "631 Pacific Ave",
+      "normalized": "631 pacific ave"
+    },
+    {
+      "address": "632 California Ave",
+      "normalized": "632 california ave"
+    },
+    {
+      "address": "633 Pacific Ave",
+      "normalized": "633 pacific ave"
+    },
+    {
+      "address": "639 Pacific Ave",
+      "normalized": "639 pacific ave"
+    },
+    {
+      "address": "640 California Ave",
+      "normalized": "640 california ave"
+    },
+    {
+      "address": "640 S Poplar Ave",
+      "normalized": "640 s poplar ave"
+    },
+    {
+      "address": "641 Central Ave",
+      "normalized": "641 central ave"
+    },
+    {
+      "address": "648 Central Ave",
+      "normalized": "648 central ave"
+    },
+    {
+      "address": "649 Central Ave",
+      "normalized": "649 central ave"
+    },
+    {
+      "address": "650 Central Valley Hwy",
+      "normalized": "650 central valley hwy"
+    },
+    {
+      "address": "653 N Central Valley Hwy",
+      "normalized": "653 n central valley hwy"
+    },
+    {
+      "address": "654 Central Ave",
+      "normalized": "654 central ave"
+    },
+    {
+      "address": "655 Pacific Ave",
+      "normalized": "655 pacific ave"
+    },
+    {
+      "address": "655 S Central Valley Hwy",
+      "normalized": "655 s central valley hwy"
+    },
+    {
+      "address": "660 Central Ave",
+      "normalized": "660 central ave"
+    },
+    {
+      "address": "663 Pacific Ave",
+      "normalized": "663 pacific ave"
+    },
+    {
+      "address": "678 S Poplar Ave",
+      "normalized": "678 s poplar ave"
+    },
+    {
+      "address": "680 W Los Angeles Ave",
+      "normalized": "680 w los angeles ave"
+    },
+    {
+      "address": "700 Central Ave",
+      "normalized": "700 central ave"
+    },
+    {
+      "address": "700 Central Valley Hwy",
+      "normalized": "700 central valley hwy"
+    },
+    {
+      "address": "701 Central Valley Hwy",
+      "normalized": "701 central valley hwy"
+    },
+    {
+      "address": "701 Golds Ave",
+      "normalized": "701 golds ave"
+    },
+    {
+      "address": "703 Hermosa Ave",
+      "normalized": "703 hermosa ave"
+    },
+    {
+      "address": "703 Manhattan St",
+      "normalized": "703 manhattan st"
+    },
+    {
+      "address": "707 Hermosa Ave",
+      "normalized": "707 hermosa ave"
+    },
+    {
+      "address": "707 Manhattan St",
+      "normalized": "707 manhattan st"
+    },
+    {
+      "address": "711 Hermosa Ave",
+      "normalized": "711 hermosa ave"
+    },
+    {
+      "address": "711 Manhattan St",
+      "normalized": "711 manhattan st"
+    },
+    {
+      "address": "711 Rodeo Ave",
+      "normalized": "711 rodeo ave"
+    },
+    {
+      "address": "714 Hollywood Ave",
+      "normalized": "714 hollywood ave"
+    },
+    {
+      "address": "715 Hermosa Ave",
+      "normalized": "715 hermosa ave"
+    },
+    {
+      "address": "715 Rodeo Ave",
+      "normalized": "715 rodeo ave"
+    },
+    {
+      "address": "717 N Central Valley Hwy",
+      "normalized": "717 n central valley hwy"
+    },
+    {
+      "address": "718 Hollywood Ave",
+      "normalized": "718 hollywood ave"
+    },
+    {
+      "address": "719 Hermosa Ave",
+      "normalized": "719 hermosa ave"
+    },
+    {
+      "address": "719 Rodeo Ave",
+      "normalized": "719 rodeo ave"
+    },
+    {
+      "address": "720 Commerce Way",
+      "normalized": "720 commerce way"
+    },
+    {
+      "address": "721 Rodeo Ave",
+      "normalized": "721 rodeo ave"
+    },
+    {
+      "address": "722 Hollywood Ave",
+      "normalized": "722 hollywood ave"
+    },
+    {
+      "address": "726 Hollywood Ave",
+      "normalized": "726 hollywood ave"
+    },
+    {
+      "address": "727 Hollywood Ave",
+      "normalized": "727 hollywood ave"
+    },
+    {
+      "address": "731 Central Valley Hwy",
+      "normalized": "731 central valley hwy"
+    },
+    {
+      "address": "734 S Poplar Ave",
+      "normalized": "734 s poplar ave"
+    },
+    {
+      "address": "740 Mayer Ln",
+      "normalized": "740 mayer ln"
+    },
+    {
+      "address": "746 Mayer Ln",
+      "normalized": "746 mayer ln"
+    },
+    {
+      "address": "760 Mayer Ln",
+      "normalized": "760 mayer ln"
+    },
+    {
+      "address": "779 Pine Cone St",
+      "normalized": "779 pine cone st"
+    },
+    {
+      "address": "780 Central Valley Hwy",
+      "normalized": "780 central valley hwy"
+    },
+    {
+      "address": "780 Mayer Ln",
+      "normalized": "780 mayer ln"
+    },
+    {
+      "address": "790 Mayer Ln",
+      "normalized": "790 mayer ln"
+    },
+    {
+      "address": "791 Pine Cone St",
+      "normalized": "791 pine cone st"
+    },
+    {
+      "address": "800 W Fresno Ave",
+      "normalized": "800 w fresno ave"
+    },
+    {
+      "address": "805 Pine Cone St",
+      "normalized": "805 pine cone st"
+    },
+    {
+      "address": "812 Walker St",
+      "normalized": "812 walker st"
+    },
+    {
+      "address": "818 W Fresno Ave",
+      "normalized": "818 w fresno ave"
+    },
+    {
+      "address": "819 Pine Cone St",
+      "normalized": "819 pine cone st"
+    },
+    {
+      "address": "830 E Los Angeles Ave",
+      "normalized": "830 e los angeles ave"
+    },
+    {
+      "address": "831 Pine Cone St",
+      "normalized": "831 pine cone st"
+    },
+    {
+      "address": "835 N Central Valley Hwy",
+      "normalized": "835 n central valley hwy"
+    },
+    {
+      "address": "843 Pine Cone St",
+      "normalized": "843 pine cone st"
+    },
+    {
+      "address": "861 N Central Valley Hwy",
+      "normalized": "861 n central valley hwy"
+    },
+    {
+      "address": "889 N Central Valley Hwy",
+      "normalized": "889 n central valley hwy"
+    },
+    {
+      "address": "890 W Los Angeles Ave",
+      "normalized": "890 w los angeles ave"
+    },
+    {
+      "address": "925 Golds Ave",
+      "normalized": "925 golds ave"
+    },
+    {
+      "address": "964 W Los Angeles Ave",
+      "normalized": "964 w los angeles ave"
+    },
+    {
+      "address": "988 W Los Angeles Ave",
+      "normalized": "988 w los angeles ave"
+    }
+  ]
+}
