@@ -1,0 +1,193 @@
+:root {
+  --bg: #0B1220;
+  --card: #121A2B;
+  --card-border: #1E2A40;
+  --accent: #4CD3C2;
+  --accent-dim: #2C6E68;
+  --warn: #F2A93B;
+  --text: #E8ECF1;
+  --muted: #7C8AA0;
+  --font-display: 'Space Grotesk', sans-serif;
+  --font-body: 'Inter', sans-serif;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font-body);
+  min-height: 100vh;
+}
+
+/* ---------- Header ---------- */
+.site-header {
+  padding: 2.5rem 1.5rem 0;
+  text-align: center;
+}
+
+.header-inner {
+  max-width: 640px;
+  margin: 0 auto;
+}
+
+.brand {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.6rem;
+}
+
+.brand-mark {
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: var(--accent);
+  box-shadow: 0 0 12px 3px rgba(76, 211, 194, 0.6);
+}
+
+.brand-name {
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: 1.6rem;
+  letter-spacing: -0.01em;
+}
+
+.tagline {
+  color: var(--muted);
+  margin: 0.5rem 0 0;
+  font-size: 1rem;
+}
+
+/* Signature element: animated fiber pulse traveling along a line */
+.pulse-line {
+  position: relative;
+  max-width: 640px;
+  margin: 2rem auto 0;
+  height: 2px;
+  background: var(--card-border);
+  overflow: hidden;
+}
+
+.pulse-line::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: -30%;
+  width: 30%;
+  height: 100%;
+  background: linear-gradient(90deg, transparent, var(--accent), transparent);
+  animation: travel 3.2s linear infinite;
+}
+
+@keyframes travel {
+  0%   { left: -30%; }
+  100% { left: 100%; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .pulse-line::after { animation: none; left: 0; width: 100%; opacity: 0.3; }
+}
+
+/* ---------- Checker ---------- */
+main {
+  max-width: 640px;
+  margin: 0 auto;
+  padding: 2.5rem 1.5rem 3rem;
+}
+
+.checker-label {
+  display: block;
+  font-size: 0.85rem;
+  color: var(--muted);
+  margin-bottom: 0.5rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.checker-row {
+  display: flex;
+  gap: 0.6rem;
+}
+
+#address-input {
+  flex: 1;
+  padding: 0.85rem 1rem;
+  border-radius: 8px;
+  border: 1px solid var(--card-border);
+  background: var(--card);
+  color: var(--text);
+  font-size: 1rem;
+  font-family: var(--font-body);
+}
+
+#address-input:focus {
+  outline: 2px solid var(--accent);
+  outline-offset: 1px;
+}
+
+#check-btn {
+  padding: 0.85rem 1.4rem;
+  border-radius: 8px;
+  border: none;
+  background: var(--accent);
+  color: #0B1220;
+  font-weight: 600;
+  font-size: 0.95rem;
+  cursor: pointer;
+  font-family: var(--font-body);
+  white-space: nowrap;
+}
+
+#check-btn:hover { background: #62E0D0; }
+#check-btn:focus-visible { outline: 2px solid var(--text); outline-offset: 2px; }
+
+.result {
+  margin-top: 1rem;
+  padding: 0.9rem 1rem;
+  border-radius: 8px;
+  font-size: 0.95rem;
+  min-height: 1.2rem;
+}
+
+.result.available {
+  background: rgba(76, 211, 194, 0.12);
+  border: 1px solid var(--accent-dim);
+  color: var(--accent);
+}
+
+.result.unavailable {
+  background: rgba(242, 169, 59, 0.1);
+  border: 1px solid rgba(242, 169, 59, 0.4);
+  color: var(--warn);
+}
+
+.result.empty { display: none; }
+
+/* ---------- Map ---------- */
+.map-section {
+  margin-top: 2.5rem;
+}
+
+#map {
+  height: 420px;
+  border-radius: 12px;
+  border: 1px solid var(--card-border);
+  overflow: hidden;
+}
+
+.map-caption {
+  color: var(--muted);
+  font-size: 0.85rem;
+  margin-top: 0.75rem;
+}
+
+/* ---------- Footer ---------- */
+.site-footer {
+  text-align: center;
+  color: var(--muted);
+  font-size: 0.8rem;
+  padding: 1.5rem;
+  border-top: 1px solid var(--card-border);
+}

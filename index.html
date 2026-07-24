@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Syber Fiber — Coverage Check</title>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-inner">
+    <div class="brand">
+      <span class="brand-mark" aria-hidden="true"></span>
+      <span class="brand-name">Syber Fiber</span>
+    </div>
+    <p class="tagline">Check if fiber runs down your street</p>
+  </div>
+  <div class="pulse-line" aria-hidden="true"></div>
+</header>
+
+<main>
+  <section class="checker">
+    <label for="address-input" class="checker-label">Enter your address</label>
+    <div class="checker-row">
+      <input
+        id="address-input"
+        type="text"
+        placeholder="e.g. 123 Main St, Springfield, IL"
+        autocomplete="off"
+      />
+      <button id="check-btn">Check coverage</button>
+    </div>
+    <p id="result" class="result" role="status"></p>
+  </section>
+
+  <section class="map-section">
+    <div id="map"></div>
+    <p class="map-caption">Highlighted streets currently have Syber Fiber service. Don't see yours? More are added regularly.</p>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <p>Syber Fiber — serviceability data updated periodically. Questions? Contact support.</p>
+</footer>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
